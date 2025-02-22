@@ -7,7 +7,6 @@
     "type": "git",
     "url": "https://github.com/react-native-community/react-native-svg"
   },
-  "private": "false",
   "license": "MIT",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
